@@ -1,1 +1,1 @@
-Eurorack compatible synthesiser schematics and pcb's
+Eurorack compatible synthesiser module schematics and pcb's
